@@ -22,3 +22,4 @@ This is a simple counter app written in Swift. The app features three buttons at
 - The counter value is constrained to remain non-negative, preventing it from going below 0
 
 ## Screenshots
+| <img src="https://github.com/CptWhisker/Sprint_3/blob/main/Screenshots/Counter_InitialScreen.jpeg" width="200" height="400" /> | <img src="https://github.com/CptWhisker/Sprint_3/blob/main/Screenshots/Counter_Screen.jpeg" width="200" height="400" /> |
