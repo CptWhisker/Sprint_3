@@ -10,8 +10,8 @@ This is a simple counter app written in Swift. The app features three buttons at
 - Reset counter value to 0 by pressing [Reset]
 - Log updates in the TextView:
   - Each log entry starts with the date and time in the format [dd-MM-yyyy / HH:mm:ss]
-  - Writes that the value was increased after pressing [+]
-  - Writes that the value was decreased after pressing [-]
+  - Writes that the value was increased by 1 after pressing [+]
+  - Writes that the value was decreased by 1 after pressing [-]
   - Writes that the value was reset after pressing [Reset]
   - Notifies the user of an attempt to decrease the value below 0
 
